@@ -1,7 +1,7 @@
 # leer el valor de la compra 
 precio = int(input("valor compra"))
 
-balotaRoja = (precio*10)/100
+balotaRoja = (precio*10)/1000
 balotaVerde = -(precio*15)/100
 balotaAzul = (precio*20)/100
 balotaAmarilla = (precio*50)100
